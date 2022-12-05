@@ -1,7 +1,7 @@
 import useSWR from 'swr';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import Link from "next/Link";
+import Link from "next/link";
 import Error from 'next/error';
 
 export default function ArtworkCard(props){
